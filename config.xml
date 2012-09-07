@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<mode>template</mode>
+  	<version>0</version>
+	<mongoUsername>mongodbUsername</mongoUsername>
+	<mongoPassword>mongodbPassword</mongoPassword>
+	<mongoHost>mongodbHost</mongoHost>
+	<mongoDatabase>mongodbDatabase</mongoDatabase>
+	<mongoPort>mongodbPort</mongoPort>
+	<baseUrl>http://localhost:8888/myapp</baseUrl>
+	<upload>upload.php</upload>
+	<logsPath>/completepathtologsfolder/</logsPath>
+</root>

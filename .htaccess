@@ -1,0 +1,9 @@
+<files config.template.xml>
+order allow,deny
+deny from all
+</files>
+
+<files .htaccess>
+order allow,deny
+deny from all
+</files>
